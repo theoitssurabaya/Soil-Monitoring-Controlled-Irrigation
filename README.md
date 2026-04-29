@@ -19,6 +19,7 @@ An intelligent IoT-based irrigation system that uses machine learning and sensor
 - [ML Model](#-ml-model)
 - [Dataset](#-dataset)
 - [Troubleshooting](#-troubleshooting)
+- [Video Documentation](#-video-documentation)
 
 ## ✨ Features
 
@@ -549,4 +550,6 @@ journalctl -u irrigation.service --since today
 
 ---
 
-**Made with 🌱 for smart agriculture and sustainable farming**
+## Video Documentation
+
+https://github.com/user-attachments/assets/d02c044a-7c5f-4b6e-bb2f-2c35501e3300
